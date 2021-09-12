@@ -1,7 +1,10 @@
 # build_cntext_deep
 
-![alt text](https://www.figma.com/file/qmTWnE25iLXB5GC1SYoTnn/Bloc?node-id=72%3A19)
-
+<div id="hidden-in-page">
+    <p align="center">
+        <img src="https://github.com/elifbilgep/BuildContextInDepth/blob/master/lib/assets/images/widget_tree.jpg" alt="">
+    </p>
+</div>
 
 
 
