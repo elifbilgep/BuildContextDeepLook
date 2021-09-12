@@ -152,7 +152,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     style: TextStyle(color: Colors.white),
                   ),
                   onPressed: () {
-                    Navigator.of(materialButtonContext).pushNamed(
+                    Navigator.of(materialButtonContext).pushNamed(//Navigator instance araması materialButtonContext den başlar
                       '/second',
                     );
                   },
@@ -168,7 +168,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   style: TextStyle(color: Colors.white),
                 ),
                 onPressed: () {
-                  Navigator.of(homeScreenContext).pushNamed(
+                  Navigator.of(homeScreenContext).pushNamed(//Navigator instance araması homeScreenContext den başlar
                     '/third',
                   );
                 },
