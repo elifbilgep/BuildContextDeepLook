@@ -5,11 +5,9 @@
         <img src="https://github.com/elifbilgep/BuildContextInDepth/blob/master/lib/assets/images/widget_tree.jpg" alt="">
     </p>
 </div>
-
-
-
-A new Flutter project.
-
+<h2>
+Bu Flutter projesinin widget ağaç yapısı
+</h2>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
